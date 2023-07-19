@@ -1,7 +1,6 @@
 # Kirill Kondratiuk 
-![my photo](./Photo.jpg)
 
-## **Junior Frontend Developer**
+## **Future Junior Frontend Developer**
 
 ## **Contacts:**
 * *Phone:* +7-981-469-67-55
@@ -32,12 +31,9 @@ I really want to start developing web applications.
 
 ## **Courses:**
 
-* Busuu English
+* Busuu English Level A1
 
-![Certificate Busuu](./Cert.jpg)
-* HTML Fundamentals
-
-![Certificate HTML](./HTML.jpg)
+* SoloLearn HTML Fundamentals
 
 *  The Rolling Scopes School. JS / FRONT-END. Stage #0 (work in progress...)
 
