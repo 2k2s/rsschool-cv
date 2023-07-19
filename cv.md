@@ -23,7 +23,7 @@ I really want to start developing web applications.
 
 ```
 function showMessage() {
-  alert( 'Всем привет!' );
+  alert( 'Hello World!' );
 }
 ```
 
