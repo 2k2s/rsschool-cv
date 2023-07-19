@@ -19,6 +19,14 @@ I really want to start developing web applications.
 * *Git, GitHub*
 * *VS Code*
 
+## **Code Example:**
+
+```
+function showMessage() {
+  alert( 'Всем привет!' );
+}
+```
+
 ## **Portfolio:**
 
 * [My CV](https://2k2s.github.io/rsschool-cv/cv)
