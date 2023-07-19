@@ -1,4 +1,5 @@
-# Kirill Kondratiuk ![my photo](Саморазвитие/Аватарка.jpg)
+# Kirill Kondratiuk 
+![my photo](./Photo.jpg)
 
 ## **Junior Frontend Developer**
 
@@ -33,10 +34,10 @@ I really want to start developing web applications.
 
 * Busuu English
 
-![Certificate Busuu](/Users/Kirill_Kondratiuk/Desktop/Cert.jpg)
+![Certificate Busuu](./Cert.jpg)
 * HTML Fundamentals
 
-![Certificate HTML](/Users/Kirill_Kondratiuk/Desktop/HTML.jpg)
+![Certificate HTML](./HTML.jpg)
 
 *  The Rolling Scopes School. JS / FRONT-END. Stage #0 (work in progress...)
 
